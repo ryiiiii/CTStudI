@@ -1,2 +1,2 @@
 # CTStudI
-CTStudI開発リポジトリ
+CTStudIのAPI開発リポジトリ
